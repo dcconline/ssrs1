@@ -13,6 +13,10 @@
       <Name>Report1.rdl</Name>
       <FullPath>Report1.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Report123.rdl</Name>
+      <FullPath>Report123.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
